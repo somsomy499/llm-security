@@ -1,0 +1,1 @@
+from .guard import SecurityGuard\n__version__ = "1.0.0"\n
